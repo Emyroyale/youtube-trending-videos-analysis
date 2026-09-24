@@ -1,5 +1,7 @@
 # YouTube Trending Videos Analysis
 
+**Data Visualization | Tableau**
+
 Data visualization project by **Emy Kirugo**, built in Tableau Public, exploring the US YouTube Trending Videos dataset (Nov 2017 – Mar 2018). Each video's cumulative statistics were de-duplicated to reflect only its final (last) day of trending, so likes, dislikes, and view counts aren't overstated across a video's multi-day trending run.
 
 **Dataset:** [YouTube Trending Video Statistics](https://www.kaggle.com/datasnaek/youtube-new) (Kaggle, `datasnaek/youtube-new`), provided through Udacity project materials, including the supplementary tag-transposition and category-name lookup files provided for the project.
